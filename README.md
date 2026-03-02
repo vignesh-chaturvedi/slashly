@@ -6,7 +6,7 @@
 
 Built with Next.js 16 · Google Gemini · Gmail API · Zustand
 
-[Live Demo](https://slashy.vercel.app) · [Report Bug](https://github.com/your-username/slashy-clone/issues) · [Request Feature](https://github.com/your-username/slashy-clone/issues)
+[Live Demo](https://slashy.vercel.app) · [Report Bug](https://github.com/vignesh-chaturvedi/slashy/issues) · [Request Feature](https://github.com/vignesh-chaturvedi/slashy/issues)
 
 </div>
 
@@ -99,7 +99,7 @@ Unlike traditional email clients that treat AI as a sidebar feature, Slashy weav
 ## Project Structure
 
 ```
-slashy-clone/
+slashy/
 ├── src/
 │   ├── app/
 │   │   ├── (dashboard)/
@@ -154,8 +154,8 @@ slashy-clone/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/slashy-clone.git
-cd slashy-clone
+git clone https://github.com/vignesh-chaturvedi/slashy.git
+cd slashy
 
 # Install dependencies
 npm install
